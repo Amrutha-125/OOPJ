@@ -1,0 +1,15 @@
+Account holder: Amrutha
+Account type: Savings
+Account number: 12350
+Balance: 10000
+
+Account holder: Ananya
+Account type: Savings
+Account number: 12351
+Balance: 20000
+
+Account holder: deena
+Account type: Savings
+Account number: 12352
+Balance: 10002
+

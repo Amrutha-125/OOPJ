@@ -1,0 +1,4 @@
+Account number: 12351
+Withdrawal amount: 200
+New balance: 19800
+

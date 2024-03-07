@@ -1,0 +1,8 @@
+Account number: 12350
+Deposit amount: 1999
+New balance: 11999
+
+Account number: 12352
+Deposit amount: 2008
+New balance: 12010
+
